@@ -1,4 +1,4 @@
-import Cart from "./Cart"
+import Cart from "../Cart"
 export default function Header({ cart, setCart  }) {
 return (
     <header className="py-5 header">
